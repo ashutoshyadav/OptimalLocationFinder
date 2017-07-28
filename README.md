@@ -1,4 +1,4 @@
-# OptimalLocationFinder
+# Finding Promising Locations for Physical Stores using Facebook Data
 Location is a crucial factor of retail success, as 94% of retail sales are
 still transacted in physical stores. To increase the chance of success for
 their stores, business owners require not only the knowledge of where
