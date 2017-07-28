@@ -1,0 +1,690 @@
+Truck Rental
+Real Estate Service
+International Restaurant
+Performance Art
+Transit Stop
+Commercial Automotive
+Driving School
+Lodge
+Outdoor Gear/Sporting Goods
+Medical Equipment
+Shopping/Retail
+Shopping Mall
+Car Wash & Detailing
+Engineering Service
+Trade School
+Heating, Ventilating & Air Conditioning
+Ambulance & Rescue
+Amusement Park Ride
+Public Transportation
+Culinary School
+Train Station
+Public Places & Attractions
+Phone/Tablet
+Licensed Financial Representative
+Food Consultant
+Hair Removal
+Region
+Hair & Beauty Supply
+Jewelry Store
+Adult Education
+Real Estate Developer
+Specialty Grocery Store
+Classes
+Caterer
+Railroad
+Home Inspection
+Meeting Room
+Private School
+Coffee Shop
+Dental Equipment
+Nursing
+Real Estate Investment
+Environmental Conservation
+Toy Store
+Airport Terminal
+Campground
+Spa
+Candy Store
+Artistic Service
+Cargo & Freight Company
+Tourist Attraction
+Chicken Wings
+Patio/Garden
+Deck & Patio
+State
+Family Style Restaurant
+Chiropractor
+Mountain Biking
+Physical Fitness
+Water Park
+Bridal Shop
+Automotive
+Interior Designer
+Beauty Salon
+Hardware Store
+Pub
+Health/Medical/Pharmaceuticals
+Bank Equipment & Service
+Electronic Equipment Service
+Art Museum
+Management Service
+Pizza Place
+Publisher
+Plumber
+Pool & Billiards
+Packaging Supplies & Equipment
+Church
+Nutritionist
+Book Store
+Steakhouse
+Jewelry Supplier
+Electronics Store
+Internet Cafe
+Automobiles and Parts
+Occupational Therapist
+Energy
+Local Business
+Home Decor
+Real Estate Lawyer
+Animal Shelter
+Art School
+Retail and Consumer Merchandise
+Automotive Restoration
+Home
+Hindu Temple
+Golf Course
+Image Consultant
+Mountain
+Patent Trademark & Copyright Law
+Inventory Control Service
+Doctor
+Bike Shop
+Passport & Visa Service
+Just For Fun
+Sports Venue & Stadium
+Event Venue
+Awnings & Canopies
+Pediatrics
+Tattoo & Piercing
+Sandwich Shop
+Notary Public
+Dermatologist
+Commercial & Industrial Equipment
+Video Game
+Health Food Restaurant
+Corporate Lawyer
+Public Relations
+Medical Spa
+Fine Dining Restaurant
+Elevator Service
+Electrician
+Swimming Pool Maintenance
+Driving Range
+Event Planner
+Computers & Electronics
+Movie & Television Studio
+Dessert Place
+Pharmacy/Drugstore
+Library
+Inn
+Educational Service
+City Hall
+Appliances
+Housewares
+Winery/Vineyard
+Barbecue Restaurant
+Educational Research
+Cabinets & Countertops
+Orchestra
+Thai Restaurant
+Resort
+Automotive Manufacturing
+Wholesale & Supply Store
+Brewery
+OBGYN
+Costume Shop
+Deli
+Bus Station
+Music Lessons & Instruction
+Carpenter
+Campus Building
+Mobile Phone Shop
+Social Services
+Media/News Company
+Lighting Fixtures
+Sports Club
+Go Karting
+Petting Zoo
+Beer Garden
+Middle School
+Web Design
+Secretarial Service
+Computer Store
+Mover
+Collection Agency
+Corporate Office
+Hot Dog Joint
+Cash Advance Service
+Department Store
+Scuba Diving
+American Restaurant
+Consulate & Embassy
+Outdoor Recreation
+Psychologist
+Community & Government
+Performance Venue
+Health/Beauty
+Towing Service
+Textiles
+Computers/Technology
+Industrials
+Recruiter
+Tourist Information
+Hospital/Clinic
+Italian Restaurant
+Sports Promoter
+Recreational Vehicle Dealership
+Gardener
+Tire Dealer & Repair Shop
+Furniture Store
+Private Transportation
+French Restaurant
+Outdoor Equipment Store
+Automotive Consultant
+Non-Profit Organization
+Employment Lawyer
+Gastropub
+Chemicals
+Butcher Shop
+Middle Eastern Restaurant
+Financial Aid
+Fashion Designer
+Burger Restaurant
+Nursing Home
+Bar
+Solar Energy Service
+Attractions/Things to Do
+Disability Service
+Southern Restaurant
+Gift Shop
+Travel Agency
+Nightlife
+Personal Trainer
+Pet Breeder
+Mortgage Brokers
+Home Security
+Active Life
+Limo Service
+Event
+Grocery Store
+Seafood Restaurant
+Exchange Program
+Archery
+Museum
+Handwriting Service
+Eyewear
+Contractor
+Accountant
+Warehouse
+Public Places
+Lebanese Restaurant
+Antique Store
+Outlet Store
+Zoo & Aquarium
+Wallpaper
+Food Stand
+Convenience Store
+Paintball
+Child Care
+Public School
+Public Square
+Hair Salon
+Employment Agency
+Supply & Distribution Service
+Allergy Doctor
+Theater
+Drug & Alcohol Rehab
+University
+Bartending Service
+Financial Service
+Escrow Service
+Veterinarian
+Alternative & Holistic Health
+Repair Service
+Security
+Massage
+Kitchen Construction
+Sports Venue
+Food/Grocery
+Furniture Repair
+Health Agency
+Shoe Store
+Car Rental
+Allergist
+Sports Instruction
+Brokers & Franchising
+Real Estate
+Upholstery Service
+Cafe
+Hotel
+Smoothie & Juice Bar
+Legal/Law
+Christian Church
+Clothing Supply & Distribution
+Family Doctor
+Modeling Agency
+Cleaning Service
+Travel Company
+Website
+Transportation
+Farm
+Women's Clothing Store
+Art Gallery
+Wills & Estate Lawyer
+Concert Venue
+Tea Room
+Preschool
+Ophthalmologist
+Frozen Yogurt Shop
+Exotic Car Rental
+Bowling Alley
+Waste Management
+Photographic Services & Equipment
+Law Enforcement
+Women's Health
+Public Service
+Armed Forces
+Taxi
+Property Law
+Laser Tag
+Race Cars
+Camera Store
+Radio & Communication Equipment
+Educational Consultant
+Armored Cars
+Blood Bank
+Specialty School
+Optometrist
+Martial Arts
+Pet Store
+Musician/Band
+Pet Sitter
+Medical Research
+Take Out Restaurant
+Automotive Customizing
+Financial Planning
+Credit Counseling
+Other
+Travel/Leisure
+Food & Restaurant
+Refrigeration Sales & Service
+Sports Event
+Bankruptcy Lawyer
+Telecommunication
+Church of Christ
+Club
+Pet Service
+Historical Place
+Lunch Place
+Commercial Bank
+Governmental Law
+Computer Training
+Insurance Broker
+Seasonal Store
+Bank
+Dance Instruction
+Vietnamese Restaurant
+Charter Buses
+Disabled Persons Service
+Restaurant Wholesale
+Audiovisual Equipment
+Advertising Service
+Apartment & Condo Building
+Pest Control
+Auditorium
+Audiologist
+Mobile Homes
+Fishing
+Lodging
+Tours & Sightseeing
+History Museum
+Community/Government
+Educational Supplies
+Sportswear
+Outdoor Service
+Insurance Company
+Wine Bar
+Arts & Entertainment
+Community Organization
+Mining/Materials
+Sports/Recreation/Activities
+Workplace & Office
+Musical Instrument Store
+Emergency Roadside Service
+Hotel Supply Service
+European Restaurant
+Buffet Restaurant
+Breakfast & Brunch Restaurant
+Local Education
+Gym
+Indian Restaurant
+Commercial & Industrial
+Pet Groomer
+Translator
+Investing Service
+Internet Service Provider
+Cosmetics & Beauty Supply
+Dive Bar
+Military Base
+Addiction Resources
+Entertainment Service
+Medical Lab
+Organization
+River
+Arts & Marketing
+Plastics
+Arts/Entertainment/Nightlife
+Cupcake Shop
+Clinic
+Laboratory Equipment
+Mattresses & Bedding
+Education
+Non-Governmental Organization (NGO)
+Sky Diving
+Police Station
+Courthouse
+Storage
+Hair Replacement
+Fruit & Vegetable Store
+Asian Fusion Restaurant
+Restaurant Supply
+Dog Walker
+Health Spa
+Salad Bar
+Garden Center
+Park
+Halal Restaurant
+Funeral Service
+Fitness Center
+Advertising Agency
+Rental Shop
+Nail Salon
+Construction Service & Supply
+Bank/Financial Service
+Skin Care
+Clothing Store
+Cantonese Restaurant
+Trophies & Engraving
+New American Restaurant
+African Restaurant
+Gas & Chemical Service
+Urban Farm
+Farmers Market
+Tax Preparation
+Tobacco Store
+Rafting
+Senior Center
+Occupational Safety
+Athletic Education
+Neighborhood
+Airline Industry Service
+Arts & Crafts Supply Store
+Real Estate Title & Development
+Automotive Wholesaler
+Metals
+Design
+Lawyer
+Late Night Restaurant
+Health Food Store
+Dog Training
+Commercial Real Estate
+Museum/Art Gallery
+Promotional Item Service
+Laser Hair Removal
+Document Service
+Sporting Goods Store
+Printing Service
+Sports & Recreation
+Lounge
+Food Truck
+Collectibles Store
+DJ
+Criminal Lawyer
+Cabin
+Roofer
+Equipment Service & Supply
+Concrete Contractor
+Government Organization
+Swimming Pool
+Transportation Service
+Kennel
+Dentist
+Water Filtration & Treatment
+Franchising Service
+Ice Cream Parlor
+Copywriting Service
+Casino
+Religious Organization
+Language School
+Bed and Breakfast
+Safety & First Aid Service
+Merchandising Service
+Flea Market
+Property Management
+Shopping Service
+Small Business
+ATVs & Golf Carts
+Business Consultant
+Divorce & Family Lawyer
+Medical School
+Market
+City
+Photographer
+Tennis
+Email Marketing
+Hookah Lounge
+Real Estate Appraiser
+Horses
+Medical Center
+Indo Chinese Restaurant
+Comedy Club
+Physical Therapist
+Cultural Gifts Store
+Music Production
+Environmental Consultant
+Cooking Lesson
+Social Club
+High School
+Automation Service
+Vintage Store
+Media/News/Publishing
+Loans
+Turkish Restaurant
+Mediterranean Restaurant
+Persian/Iranian Restaurant
+Diner
+Residence
+Consulting/Business Service
+Music Store
+Airport
+Healthcare Administrator
+Charity Organization
+Labor & Employment Law
+Biotechnology
+Wedding Planning
+Counseling & Mental Health
+Radio Station
+Gas Station
+Youth Organization
+Oil Lube & Filter Service
+Aerospace/Defense
+Florist
+Architect
+Motorcycle Repair
+Port
+Screen Printing & Embroidery
+Tour Guide
+Argentinian Restaurant
+Beach Resort
+Storage Service
+Landmark
+Pregnancy & Childbirth Service
+Playground
+Glass Products
+Petroleum Service
+Company
+Medical & Health
+Recreation Center
+Party Center
+Home Theater Store
+Political Organization
+Record Label
+Party Supplies
+Roller Coaster
+Community Center
+Restaurant
+Newspaper
+Event Planning Service
+Camp
+Day Care
+Bakery
+Tour Company
+Law Practice
+Entertainer
+Telemarketing Service
+Malaysian Restaurant
+Eco Tours
+Robotics
+Sports Center
+Broadcasting & Media Production
+Rental Company
+Amusement
+Night Club
+Spas/Beauty/Personal Care
+Arcade
+Donuts & Bagels
+Tours/Sightseeing
+Marketing Consultant
+Mosque
+Convention Center
+Aromatherapy
+Lifestyle Services
+Writing Service
+Bike Rental & Bike Share
+Internet/Software
+Office Supplies
+Hospitality Service
+Dating Service
+Home Improvement
+College & University
+Geologic Service
+Ethnic Grocery Store
+Luggage Service
+Insurance Agent
+Tools Service
+Performing Arts Education
+School
+Junior High School
+Elementary School
+Outdoors
+Fast Food Restaurant
+Children's Clothing Store
+Automotive Repair
+Bus Line
+Admissions Training
+Cruise Excursions
+Personal Coaching
+Accessories Store
+Book & Magazine Distribution
+Comic Book Store
+Race Track
+Kitchen/Cooking
+Private Investigator
+Sikh Temple
+Gun Store
+Hostel
+Bank/Financial Institution
+Yoga & Pilates
+Adult Entertainment
+Live & Raw Food Restaurant
+Acupuncture
+Professional Service
+Business Supply Service
+Boat Rental
+Research Service
+Travel & Transportation
+Asian Restaurant
+Portable Building Service
+Market Research Consultant
+Landscaping
+Chinese Restaurant
+Recycling & Waste Management
+Painter
+Hunting and Fishing
+Motorcycles
+Subway & Light Rail Station
+State Park
+Religious Book Store
+Graphic Design
+Continental Restaurant
+Vacation Home Rental
+Church/Religious Organization
+Housing Assistance Service
+Horse-Drawn Vehicles
+Tutoring
+Mexican Restaurant
+Barber Shop
+Computer Service
+Adoption Service
+Business Service
+Startup
+Technical Institute
+Automotive Body Shop
+Parking
+Educational Camp
+Rock Climbing
+Educational Organization
+Agricultural Service
+Drive In Restaurant
+Scooter Rental
+Religious Center
+Civic Structure
+Restaurant/Cafe
+Lake
+Business Center
+Sports Bar
+Day Spa
+Ferry & Boat
+Vegetarian & Vegan Restaurant
+Hardware & Tools Service
+Highway
+Farming/Agriculture
+Medical Supplies
+Blinds & Curtains
+Makeup Artist
+DVD & Video Store
+Chicken Restaurant
+Dance Club
+Manufacturing
+Speech Pathologist
+Food & Beverage Service & Distribution
+Carpet & Flooring Store
+Movie Theater
+Airline
+Real Estate Agent
+Monument
+Automobile Leasing
+Catholic Church
+Internal Medicine
+Men's Clothing Store
+Bar & Grill
+Cafeteria
+Automotive Parts & Accessories
+Ticket Sales
+Airport Lounge
+Food/Beverages
+Engineering/Construction
+Street
+Car Dealership
+Place to Eat/Drink
