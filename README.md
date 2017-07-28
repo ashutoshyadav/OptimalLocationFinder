@@ -16,6 +16,7 @@ are costly and do not scale up well. With fast changing environments
 (e.g., neighborhood rental, local population size, composition, etc.) and
 emergence of new business locations, one also needs to continuously
 re-evaluate the value of store locations.
+
 Fortunately, in the era of social media and mobile apps, we have an
 abundance of online user-generated data, which capture both activities
 of users in social media as well as offline activities at physical locations.
@@ -25,12 +26,14 @@ massive availability of user, location, and other behavioral data in
 Facebook is attractive, and has changed the way people do businesses.
 For instance, many small/medium business owners are now setting up
 Facebook Pages to:
-(i) allow customers to find their businesses on Facebook
-(ii) connect with customers via “likes” and “check-ins”
-(iii) reach out to more customers through advertising their business
+
+1. allow customers to find their businesses on Facebook
+2. connect with customers via “likes” and “check-ins”
+3. reach out to more customers through advertising their business
 pages on Facebook
-(iv) conduct analytics of their pages to get a deeper understanding
+4. conduct analytics of their pages to get a deeper understanding
 of their customers and marketing activities.
+
 Consumers are also adapting both their online and offline behaviors to
 the introduction of Facebook Pages for businesses. Other than “liking”
 businesses on their Facebook Pages, they can do a “check-in” whenever
